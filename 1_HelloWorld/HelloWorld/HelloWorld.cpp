@@ -6,7 +6,7 @@ using namespace cv;
 
 int main() {
 	// Name of the image to load
-	char ImageName[] = "../img.jpg";
+	char ImageName[] = "../../0_SampleImages/img.jpg";
 	Mat image;
 
 	// Load image and check it is correct
